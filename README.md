@@ -42,6 +42,20 @@ sales-data-analysis/
 
 ---
 
+## Project Deliverables
+
+### 📊 Dataset
+- Raw sales data: `data/raw_sales_data.csv`
+
+### 📝 Reports
+- Executive summary: `report/executive_summary.md`
+- Insights & recommendations: `report/insights_and_recommendations.md`
+
+### 📒 Analysis Notes
+- The `notebooks/` folder will contain the analytical workflow and calculations supporting the findings and recommendations presented in the reports.
+
+---
+
 ## Analysis Steps
 1. Data loading and inspection  
 2. Data cleaning and preprocessing  
