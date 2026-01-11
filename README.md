@@ -116,4 +116,13 @@ This project is designed as a real-world business analytics case study and is pa
 It reflects the type of analysis typically required in freelance and full-time data analyst roles.
 
 ---
+
+## How to Run
+From the repository root:
+
+```bash
+python scripts/compute_kpis.py
+
+---
+
 📌 *This project will be updated as new analyses and insights are added.*
