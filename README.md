@@ -117,12 +117,9 @@ It reflects the type of analysis typically required in freelance and full-time d
 
 ---
 
-## How to Run
+## Reproducibility
 
-From the repository root, run:
-
-```bash
-python scripts/compute_kpis.py
+Key metrics and KPIs presented in this project are derived programmatically from the raw dataset using a lightweight Python script included in the repository.
 
 ---
 
