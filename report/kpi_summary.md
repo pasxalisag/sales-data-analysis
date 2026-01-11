@@ -17,6 +17,8 @@ This section summarizes the key sales performance indicators derived from the av
 | Top Product Category | Supplements | Category contributing the highest share of revenue |
 | Top Region | Attica | Region with the highest total revenue |
 
+> KPI values were computed directly from `data/raw_sales_data.csv` using `scripts/compute_kpis.py`.
+
 ---
 
 ## KPI Interpretation
