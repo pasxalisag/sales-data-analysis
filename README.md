@@ -45,8 +45,6 @@ sales-data-analysis/
 │
 └── README.md                     # Project overview and navigation
 
----
-
 ## Project Deliverables
 
 ### 📊 Dataset
