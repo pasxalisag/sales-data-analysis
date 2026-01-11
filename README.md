@@ -50,6 +50,8 @@ sales-data-analysis/
 ### 📝 Reports
 - Executive summary: `report/executive_summary.md`
 - Insights & recommendations: `report/insights_and_recommendations.md`
+- KPI summary: `report/kpi_summary.md`
+
 
 ### 📒 Analysis Notes
 - The `notebooks/` folder will contain the analytical workflow and calculations supporting the findings and recommendations presented in the reports.
