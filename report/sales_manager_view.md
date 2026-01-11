@@ -1,8 +1,8 @@
 # Sales Manager View – One Page Brief
 
 ## Executive Snapshot
-- Total Revenue: €2,381.30
-- Average Order Value: €119.07
+- Total Revenue: €2,397.30
+- Average Order Value: €119.86
 - Top Region: Attica
 - Top Product Category: Supplements
 
