@@ -27,18 +27,23 @@ The data is analyzed both in its raw form and after cleaning and preprocessing.
 
 ## Repository Structure
 
+```text
 sales-data-analysis/
+│
 ├── data/
-│ ├── raw_sales_data.csv
-│ └── cleaned_sales_data.csv
+│   └── raw_sales_data.csv        # Raw transactional sales data
 │
 ├── notebooks/
-│ └── sales_analysis.ipynb
+│   └── README.md                 # Analysis workflow notes (placeholder)
 │
 ├── report/
-│ └── executive_summary.md
+│   ├── executive_summary.md      # One-page executive overview
+│   ├── insights_and_recommendations.md
+│   │                              # Key insights and business recommendations
+│   ├── kpi_summary.md             # Core sales KPIs and metrics
+│   └── sales_manager_view.md     # Business-facing sales manager brief
 │
-└── README.md
+└── README.md                     # Project overview and navigation
 
 ---
 
