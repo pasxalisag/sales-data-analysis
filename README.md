@@ -118,7 +118,8 @@ It reflects the type of analysis typically required in freelance and full-time d
 ---
 
 ## How to Run
-From the repository root:
+
+From the repository root, run:
 
 ```bash
 python scripts/compute_kpis.py
