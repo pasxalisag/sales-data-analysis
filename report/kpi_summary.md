@@ -7,14 +7,15 @@ This section summarizes the key sales performance indicators derived from the av
 
 ## Core KPIs
 
-| KPI | Description |
-|-----|------------|
-| Total Revenue | Total sales revenue generated across all regions and products |
-| Total Units Sold | Total number of product units sold |
-| Average Order Value (AOV) | Average revenue per invoice |
-| Revenue per Pharmacy | Average revenue generated per pharmacy account |
-| Top Product Category | Product category contributing the highest share of revenue |
-| Top Region | Region with the highest total revenue |
+| KPI | Value | Description |
+|-----|-------|------------|
+| Total Revenue | €2,381.30 | Total sales revenue across all regions and products |
+| Total Units Sold | 260 | Total number of units sold |
+| Total Invoices | 20 | Total number of sales transactions |
+| Average Order Value (AOV) | €119.07 | Average revenue per invoice |
+| Average Revenue per Pharmacy | €396.88 | Average revenue generated per pharmacy account |
+| Top Product Category | Supplements | Category contributing the highest share of revenue |
+| Top Region | Attica | Region with the highest total revenue |
 
 ---
 
