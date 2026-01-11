@@ -1,0 +1,21 @@
+invoice_id,invoice_date,pharmacy_id,region,product_name,product_category,quantity,unit_price,revenue
+INV001,2024-01-05,PH001,Attica,Vitamin C 1000mg,Supplements,10,8.5,85
+INV002,2024-01-07,PH002,Attica,Magnesium 375mg,Supplements,8,9.2,73.6
+INV003,2024-01-10,PH003,Central Greece,Vitamin D3 2000IU,Supplements,15,7.8,117
+INV004,2024-01-15,PH001,Attica,Omega 3 Capsules,Cardio Health,5,14.5,72.5
+INV005,2024-01-18,PH004,Thessaloniki,Probiotics Complex,Digestive Health,12,13.0,156
+INV006,2024-02-02,PH002,Attica,Vitamin C 1000mg,Supplements,20,8.5,170
+INV007,2024-02-05,PH003,Central Greece,Magnesium 375mg,Supplements,10,9.2,92
+INV008,2024-02-08,PH005,Crete,Omega 3 Capsules,Cardio Health,7,14.5,101.5
+INV009,2024-02-12,PH004,Thessaloniki,Vitamin D3 2000IU,Supplements,18,7.8,140.4
+INV010,2024-02-20,PH006,Attica,Probiotics Complex,Digestive Health,6,13.0,78
+INV011,2024-03-03,PH001,Attica,Vitamin C 1000mg,Supplements,25,8.5,212.5
+INV012,2024-03-06,PH002,Attica,Omega 3 Capsules,Cardio Health,4,14.5,58
+INV013,2024-03-10,PH003,Central Greece,Probiotics Complex,Digestive Health,10,13.0,130
+INV014,2024-03-15,PH005,Crete,Magnesium 375mg,Supplements,14,9.2,128.8
+INV015,2024-03-20,PH004,Thessaloniki,Vitamin D3 2000IU,Supplements,22,7.8,171.6
+INV016,2024-04-02,PH006,Attica,Vitamin C 1000mg,Supplements,18,8.5,153
+INV017,2024-04-05,PH001,Attica,Probiotics Complex,Digestive Health,8,13.0,104
+INV018,2024-04-10,PH002,Attica,Magnesium 375mg,Supplements,12,9.2,110.4
+INV019,2024-04-15,PH005,Crete,Vitamin D3 2000IU,Supplements,20,7.8,156
+INV020,2024-04-20,PH003,Central Greece,Omega 3 Capsules,Cardio Health,6,14.5,87
