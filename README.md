@@ -51,6 +51,7 @@ sales-data-analysis/
 - Executive summary: `report/executive_summary.md`
 - Insights & recommendations: `report/insights_and_recommendations.md`
 - KPI summary: `report/kpi_summary.md`
+- Sales manager view: `report/sales_manager_view.md`
 
 
 ### 📒 Analysis Notes
