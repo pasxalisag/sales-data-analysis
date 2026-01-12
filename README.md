@@ -1,126 +1,123 @@
-# Sales Data Analysis – Business Insights Project
+# 📊 Sales Data Analysis & Business Dashboard
 
-## Business Question
-How can sales data be analyzed to identify performance trends, key drivers, and actionable opportunities for revenue growth?
+This repository presents a **real-world sales analytics case study**, designed to demonstrate practical skills in **data analysis, KPI reporting, and business-oriented visualization**.
 
----
-
-## Project Overview
-This project focuses on analyzing sales data from a retail / e-commerce context to extract meaningful business insights.  
-The goal is to transform raw transactional data into clear metrics, trends, and recommendations that can support business decision-making.
-
-The analysis follows a business-oriented approach, similar to what a data analyst would deliver to a sales manager or business owner.
+The project follows a complete **Sales / Business Analyst workflow**, from raw transactional data to executive-level insights and an interactive Power BI dashboard.
 
 ---
 
-## Dataset
-The dataset consists of transactional sales data including:
-- Order dates
-- Products and categories
-- Sales revenue
-- Quantities
-- Customer information
+## 🎯 Project Objectives
 
-The data is analyzed both in its raw form and after cleaning and preprocessing.
+- Analyze transactional sales data and extract meaningful business KPIs  
+- Provide clear insights for **sales managers and decision-makers**  
+- Identify revenue drivers across **regions and product categories**  
+- Demonstrate an end-to-end analytics workflow suitable for real business environments  
 
 ---
 
-## Repository Structure
+## 📁 Dataset Overview
 
-### 📁 Data
-- `data/raw_sales_data.csv`  
-  Raw transactional sales data used for the analysis.
+The dataset represents fictional B2B sales transactions (pharmacy channel) and includes:
 
-### 📒 Notebooks
-- `notebooks/README.md`  
-  Notes outlining the analytical workflow and methodology.
+- Invoice-level revenue
+- Quantities sold
+- Product categories
+- Sales regions
+- Pharmacy (customer) identifiers
 
-### 📝 Reports
-- `report/executive_summary.md`  
-  One-page executive overview of the analysis.
-- `report/insights_and_recommendations.md`  
-  Key insights and business-driven recommendations.
-- `report/kpi_summary.md`  
-  Core sales KPIs and performance metrics.
-- `report/sales_manager_view.md`  
-  Business-facing summary tailored for a sales manager.
-
-### 📄 Documentation
-- `README.md`  
-  Project overview, structure, and navigation guide.
-
-## Project Deliverables
-
-### 📊 Dataset
-- Raw sales data: `data/raw_sales_data.csv`
-
-### 📝 Reports
-- Executive summary: `report/executive_summary.md`
-- Insights & recommendations: `report/insights_and_recommendations.md`
-- KPI summary: `report/kpi_summary.md`
-- Sales manager view: `report/sales_manager_view.md`
-
-
-### 📒 Analysis Notes
-- The `notebooks/` folder will contain the analytical workflow and calculations supporting the findings and recommendations presented in the reports.
+📄 Source file: `data/raw_sales_data.csv`
 
 ---
 
-## Analysis Steps
-1. Data loading and inspection  
-2. Data cleaning and preprocessing  
-3. Exploratory Data Analysis (EDA)  
-4. Key Performance Indicators (KPIs) calculation  
-5. Trend analysis (time, product, category)  
-6. Insight generation  
+## 📌 Core KPIs
+
+The following KPIs are computed programmatically from the raw dataset:
+
+| KPI | Value |
+|---|---|
+| Total Revenue | €2,397.30 |
+| Total Units Sold | 250 |
+| Total Invoices | 20 |
+| Average Order Value (AOV) | €119.87 |
+| Average Revenue per Pharmacy | €399.55 |
+| Top Product Category | Supplements |
+| Top Revenue Region | Attica |
+
+> KPI values are derived directly from the raw dataset to ensure accuracy and reproducibility.
 
 ---
 
-## Key Metrics & KPIs
-- Total revenue
-- Revenue growth over time
-- Average order value (AOV)
-- Product and category performance
-- Customer contribution to revenue
+## 📈 Key Business Insights
+
+- **Revenue is highly concentrated in Attica**, accounting for nearly half of total sales.
+- **Supplements** are the primary revenue driver, outperforming all other product categories.
+- Order values remain relatively consistent across regions, suggesting pricing stability.
+- Sales performance differences are primarily volume-driven rather than price-driven.
 
 ---
 
-## Key Insights
-The analysis aims to identify:
-- Revenue trends and seasonality
-- Best- and worst-performing products or categories
-- Customer behavior patterns
-- Potential performance gaps and opportunities
+## 🧠 Analytical Approach
+
+The analysis follows a **business-first methodology**:
+
+1. Data validation and consistency checks  
+2. KPI computation using reproducible Python scripts  
+3. Insight extraction aligned with sales decision-making  
+4. Executive-level visualization using Power BI  
 
 ---
 
-## Business Recommendations
-Based on the insights, practical recommendations are provided, such as:
-- Focus areas for revenue growth
-- Product or category optimization
-- Sales strategy improvements
-- Data-driven decision suggestions
+## 🛠️ Tools & Technologies
+
+- **Python** (standard library) – KPI computation and validation  
+- **Power BI Desktop** – Executive dashboard and visualization  
+- **CSV data format** – Lightweight and transparent data handling  
 
 ---
 
-## Tools & Technologies
-- Python (pandas, numpy, matplotlib)
-- Jupyter Notebook
-- Excel-style KPI logic
-- Basic statistical analysis
+## 📊 Interactive Sales Dashboard (Power BI)
+
+An executive-level Power BI dashboard was created to visually support the analysis and insights.
+
+### Dashboard Features
+- KPI overview (Revenue, Units Sold, Invoices, AOV)
+- Revenue breakdown by **region**
+- Revenue breakdown by **product category**
+
+📁 Power BI file:  dashboard/sales_dashboard.pbix
+
+
+> The dashboard is intended to be opened with **Power BI Desktop**.
 
 ---
 
-## Notes
-This project is designed as a real-world business analytics case study and is part of a broader data analytics portfolio.  
-It reflects the type of analysis typically required in freelance and full-time data analyst roles.
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard Preview](assets/dashboard_preview.png)
 
 ---
 
-## Reproducibility
+## 🔁 Reproducibility
 
-Key metrics and KPIs presented in this project are derived programmatically from the raw dataset using a lightweight Python script included in the repository.
+All KPIs presented in this project are computed programmatically from the raw dataset using a dedicated Python script: scripts/compute_kpis.py
+
+
+This ensures transparency, consistency, and reproducibility of results.
 
 ---
+
+## 📌 Notes
+
+- This repository is intended as a **portfolio project** and business case study.
+- Visualizations are provided to support interpretation and decision-making.
+- The focus is on **clarity, business relevance, and analytical rigor**, rather than tool complexity.
+
+---
+
+## 👤 Author
+
+**Paschalis Angelopoulos**  
+Data Analyst | Sales & Business Analytics  
+GitHub: https://github.com/pasxalisag
 
 📌 *This project will be updated as new analyses and insights are added.*
